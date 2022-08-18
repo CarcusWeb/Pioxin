@@ -1,5 +1,5 @@
 <!-- Hi skid <3 -->
-<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://dsc.gg/pioxin">https://dsc.gg/onlp</a></h2>
+<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://dsc.gg/pioxin">https://dsc.gg/pioxin</a></h2>
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
@@ -7,7 +7,7 @@
 </p> -->
 
 <p href="https://dsc.gg/pioxin" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/1006041670833410090/>
 </p>
 
 ```python
