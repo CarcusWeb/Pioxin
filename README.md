@@ -1,12 +1,12 @@
 <!-- Hi skid <3 -->
-<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://dsc.gg/pioxin">https://dsc.gg/pioxin</a></h2>
+<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://dsc.gg/Carcus">https://dsc.gg/carcus</a></h2>
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
 </p> -->
 
-<p href="https://dsc.gg/pioxin" align="center">
+<p href="https://dsc.gg/carcus" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1006041670833410090/>
 </p>
 
@@ -18,8 +18,8 @@ class Attributes:
 		bitches.get('bitches')
 		
 	def contact(self):
-	    discord  = "Pioxin#_ _ _ _"
-	    proton   = "expioxin@protonmail.com"
+	    discord  = "Carcus#_ _ _ _"
+	    proton   = "excarcus@protonmail.com"
 	    
 	    return discord, proton
 
